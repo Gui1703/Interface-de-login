@@ -25,6 +25,7 @@ input {
     margin: 0 auto;
     display: block;
     background-color: #E5E5E5;
+    padding-left: 19px;
 }
 
 input::placeholder {
@@ -33,7 +34,6 @@ input::placeholder {
     font-size: 13px;
     line-height: 15px;
     color: #969696;
-    padding-left: 19px;
 }
 
 .input-password {
