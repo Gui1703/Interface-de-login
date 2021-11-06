@@ -4,7 +4,7 @@
 <img src="./Yoga-Interface.png" alt="Interface Yoga" width="300px">
 
 
-> Imagem de apresentação sobre nós e nossos objetivos.
+> Imagem da Interface finalizada.
 
 ### Ajustes e melhorias
 
